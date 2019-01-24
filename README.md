@@ -25,12 +25,18 @@
 
 服务器部分：
 方法一：使用Onekey一键脚本
+
 1.下载
+
 wget https://github.com/M-Hun/tinyproxy/releases/download/0.1/Onekey.sh
+
 PS：显示错误的执行yum -y install wget，然后再执行上面的指令
 
 2.运行
+
 bash Onekey.sh
+
+方法二：手动搭建
 
 1.下载（Linux x64）
 
